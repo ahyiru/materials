@@ -1,0 +1,29 @@
+{
+  "name": "@huxy/materials",
+  "version": "0.0.2",
+  "title": "materials",
+  "feature": "0.0.1",
+  "hooks": "0.0.1",
+  "description": "js css materials",
+  "homepage": "https://github.com/ahyiru/materials",
+  "keywords": [
+    "css",
+    "materials",
+    "react"
+  ],
+  "sideEffects": false,
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahyiru/materials"
+  },
+  "license": "MIT",
+  "devDependencies": {},
+  "peerDependencies": {
+    "react": ">=17.0.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "author": "yiru"
+}
