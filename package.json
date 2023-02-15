@@ -1,6 +1,6 @@
 {
   "name": "@huxy/materials",
-  "version": "0.1.10",
+  "version": "0.2.0",
   "title": "materials",
   "feature": "0.0.1",
   "hooks": "0.0.1",
@@ -23,12 +23,9 @@
     "url": "https://github.com/ahyiru/materials"
   },
   "license": "MIT",
-  "devDependencies": {},
+  "dependencies": {},
   "peerDependencies": {
     "react": ">=17.0.0"
-  },
-  "directories": {
-    "lib": "lib"
   },
   "author": "yiru"
 }
