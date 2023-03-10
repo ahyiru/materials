@@ -1,9 +1,10 @@
 {
   "name": "@huxy/materials",
-  "version": "0.2.1",
+  "version": "1.0.0",
   "title": "materials",
   "feature": "0.0.1",
   "hooks": "0.0.1",
+  "type": "module",
   "description": "js css materials",
   "homepage": "https://github.com/ahyiru/materials",
   "keywords": [
