@@ -1,6 +1,6 @@
 {
   "name": "@huxy/materials",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "title": "materials",
   "feature": "0.0.1",
   "hooks": "0.0.1",
@@ -16,7 +16,6 @@
   "main": "./lib/index.js",
   "exports": {
     ".": "./lib/index.js",
-    "./unpkg.js": "./lib/index.unpkg.js",
     "./package.json": "./package.json"
   },
   "repository": {
